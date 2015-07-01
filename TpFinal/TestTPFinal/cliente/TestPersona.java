@@ -25,6 +25,8 @@ public class TestPersona {
 		persona = new Persona("nombre","apellido","36778000","direccion");
 		persona.setEstadoCliente(mockedEstadoCliente);
 	}
+	
+	//editado prueba
 
 	@Test
 	public void testConstructor(){
